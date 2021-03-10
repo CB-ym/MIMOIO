@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIMOIO", "MIMOIO\MIMOIO.csproj", "{4261F571-DD8F-4029-BD77-AAA62B7ABE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Debug|x64.ActiveCfg = Debug|x64
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Debug|x64.Build.0 = Debug|x64
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Release|x64.ActiveCfg = Release|x64
+		{4261F571-DD8F-4029-BD77-AAA62B7ABE72}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1986581B-5C7B-493C-9040-BEBC012E72D2}
+	EndGlobalSection
+EndGlobal
