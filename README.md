@@ -10,7 +10,7 @@
 6. 项目中用到了外部的FFmpeg程序，由于FFmpeg大于25MB无法上传，调试源码的时候需要先下载Releases里面的正式程序，将里面的FFmpeg放到你调试的MIMOIO程序所在的目录下。
 
 # 在Windows10上运行
-![预览图片](https://www.ym-o.cn/img/Win10.png "预览图片")
+![预览图片](https://www.ym-o.cn/img/WIn10.png "预览图片")
 
 # v1.0.0调试版历程
 1. 解析数据库资源，通过关键字加载影视资源。<br>
