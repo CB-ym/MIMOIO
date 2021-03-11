@@ -1,6 +1,9 @@
 # MIMOIO
 基于.NET Framework4.5版本的框架，用C#开发的一款精简而又强大的影视资源和Lsp图片资源搜索开源WPF应用程序
 
+# 在Windows10上运行
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+
 # 开源说明
 1. 此开源项目禁止商用×，api接口会随时更换。<br>
 2. 由于项目的开发时间短，代码优化和注释并不是很到位，欢迎Deve你的加入。<br>
