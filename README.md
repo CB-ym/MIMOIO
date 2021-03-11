@@ -1,14 +1,14 @@
 # MIMOIO
 基于.NET Framework4.5版本的框架，用C#开发的一款精简而又强大的影视资源和Lsp图片资源搜索开源WPF应用程序
 
-# 在Windows10上运行
-![预览图片](https://github.com/CB-ym/MIMOIO/blob/main/image/Win10.png "预览图片")
-
 # 开源说明
 1. 此开源项目禁止商用×，api接口会随时更换。<br>
 2. 由于项目的开发时间短，代码优化和注释并不是很到位，欢迎Deve你的加入。<br>
 3. 当前版本目前只有影视资源搜索一种功能，lsp图片资源搜索将延后加上。<br>
 4. 项目中用到了外部的FFmpeg程序，由于FFmpeg大于25MB无法上传，调试源码的时候需要先下载Releases里面的正式程序，将里面的FFmpeg放到你调试的MIMOIO程序所在的目录下。
+
+# 在Windows10上运行
+![预览图片](https://www.ym-o.cn/img/Win10.png "预览图片")
 
 # v1.0.0调试版历程
 1. 解析数据库资源，通过关键字加载影视资源。<br>
