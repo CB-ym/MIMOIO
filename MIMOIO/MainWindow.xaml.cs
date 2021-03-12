@@ -237,6 +237,7 @@ namespace MIMOIO
         {
             Isss = false;
             IsStop = false;
+            
             Grid grid = sender as Grid;
             //把当前加载的集数放在公共变量str_002上（后面要用到）
             str_002 = grid.Name;
